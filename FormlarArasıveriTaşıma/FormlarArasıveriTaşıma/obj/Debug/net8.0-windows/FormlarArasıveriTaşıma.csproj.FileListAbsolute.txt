@@ -1,0 +1,17 @@
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\bin\Debug\net8.0-windows\FormlarArasıveriTaşıma.exe
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\bin\Debug\net8.0-windows\FormlarArasıveriTaşıma.deps.json
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\bin\Debug\net8.0-windows\FormlarArasıveriTaşıma.runtimeconfig.json
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\bin\Debug\net8.0-windows\FormlarArasıveriTaşıma.dll
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\bin\Debug\net8.0-windows\FormlarArasıveriTaşıma.pdb
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.Form1.resources
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.Form2.resources
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.csproj.GenerateResource.cache
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.AssemblyInfoInputs.cache
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.AssemblyInfo.cs
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.csproj.CoreCompileInputs.cache
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.dll
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\refint\FormlarArasıveriTaşıma.dll
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.pdb
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\FormlarArasıveriTaşıma.genruntimeconfig.cache
+C:\Users\aycan\Desktop\c#\FormlarArasıveriTaşıma\FormlarArasıveriTaşıma\obj\Debug\net8.0-windows\ref\FormlarArasıveriTaşıma.dll
