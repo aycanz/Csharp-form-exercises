@@ -1,0 +1,16 @@
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\bin\Debug\net8.0-windows\SayisalLoto.exe
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\bin\Debug\net8.0-windows\SayisalLoto.deps.json
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\bin\Debug\net8.0-windows\SayisalLoto.runtimeconfig.json
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\bin\Debug\net8.0-windows\SayisalLoto.dll
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\bin\Debug\net8.0-windows\SayisalLoto.pdb
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.Form1.resources
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.csproj.GenerateResource.cache
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.AssemblyInfoInputs.cache
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.AssemblyInfo.cs
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.dll
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\refint\SayisalLoto.dll
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.pdb
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\SayisalLoto.genruntimeconfig.cache
+C:\Users\aycan\Desktop\c#\SayisalLoto\SayisalLoto\obj\Debug\net8.0-windows\ref\SayisalLoto.dll
