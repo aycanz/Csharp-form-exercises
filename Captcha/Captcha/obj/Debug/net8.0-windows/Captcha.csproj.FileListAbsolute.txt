@@ -1,0 +1,16 @@
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.Form1.resources
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.csproj.GenerateResource.cache
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.AssemblyInfoInputs.cache
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.AssemblyInfo.cs
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\bin\Debug\net8.0-windows\Captcha.exe
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\bin\Debug\net8.0-windows\Captcha.deps.json
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\bin\Debug\net8.0-windows\Captcha.runtimeconfig.json
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\bin\Debug\net8.0-windows\Captcha.dll
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\bin\Debug\net8.0-windows\Captcha.pdb
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.dll
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\refint\Captcha.dll
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.pdb
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\Captcha.genruntimeconfig.cache
+C:\Users\aycan\Desktop\c#\Captcha\Captcha\obj\Debug\net8.0-windows\ref\Captcha.dll
